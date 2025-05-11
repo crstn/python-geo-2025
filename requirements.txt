@@ -1,0 +1,7 @@
+geopandas==1.0.1
+matplotlib==3.10.1
+rasterio==1.4.3
+seaborn==0.13.2
+scipy==1.15.2
+scikit-image==0.25.2
+pysal==25.1
