@@ -5,3 +5,5 @@ seaborn==0.13.2
 scipy==1.15.2
 scikit-image==0.25.2
 pysal==25.1
+pycrs==1.0.2
+bokeh==3.7.2
